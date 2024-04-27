@@ -46,9 +46,12 @@ Feel free to contact me through any of the following!
 
 ## Education 🎓
 
-- **University of Washington - Seattle**
-  - M.S. in Technology Innovation, Human-Computer Interaction (Sep. 2023 - March 2025)
-  - B.S. in Human-Computer Interaction (Sep. 2019 - June 2023)
+- M.S. in Technology Innovation - Human-Computer Interaction | University of Washington - Seattle
+  -  September 2023 - March 2025
+-  B.S. in Human-Computer Interaction @ Information School | University of Washington - Seattle
+    -  September 2019 - June 2023
+-  B.S. in Statistics - Data Science (Dual Degree) | University of Washington - Seattle
+
     B.S. in Statistics - Data Science (Dual Degree)
 
 ## Skills 💼
