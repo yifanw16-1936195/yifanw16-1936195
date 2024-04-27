@@ -1,4 +1,4 @@
-# Yifan's Github
+# Yifan's Github 🚀
 
 ```json
 {
@@ -11,9 +11,9 @@
         }
     ],
     "description": {
-        "I'm": " a product designer and technology innovator",
+        "I'm": "a product designer and technology innovator",
         "my interests": {
-            "dancing": {
+            "dancing 💃 ": {
                 "styles": ["jazz", "k-pop"]
             }
         },
@@ -23,7 +23,7 @@
                     "breed": "British Shorthair",
                     "color": "Gold & Silver"
                     "description": "adorable",
-                    "count": 2
+                    "count": "🐱🐱"
                 }
             }
         }
@@ -32,13 +32,13 @@
 
 ```
 
-## My Journey to Design ╰(●'◡'●)╮
+## My Journey to Design 💫
 
 During my internship at PwC as a business analyst while pursuing a B.S. in Statistics at UW in my junior year, I became intrigued by the reasons behind data changes, user reactions, and product value. This curiosity led me to pursue a double degree in HCI at UW. I aim to bridge the gap between people, products, and colleagues with my interdisciplinary, tech-savvy background.
 
-## Want to recruit me?
+## Want to recruit me? 🙏
 
-Feel free to contact me through any of the following:
+Feel free to contact me through any of the following!
 
 - **Portfolio**: [Yifan Wang's Portfolio](https://www.yifanwang16.com/)
 - **LinkedIn**: [Yifan Wang on LinkedIn](https://www.linkedin.com/in/yifanw16/)
